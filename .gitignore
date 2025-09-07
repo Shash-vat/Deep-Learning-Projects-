@@ -1,0 +1,15 @@
+# Ignore dataset and large files
+data/
+*.jpg
+*.png
+*.jpeg
+*.mp4
+*.avi
+*.h5
+*.pt
+*.ckpt
+
+# Python cache
+__pycache__/
+*.pyc
+
